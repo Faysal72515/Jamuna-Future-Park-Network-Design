@@ -1,2 +1,2 @@
 # Jamuna-Future-Park-Network-Design
-It is  Computer Networks project
+Computer Networks project
